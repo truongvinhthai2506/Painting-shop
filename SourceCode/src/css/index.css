@@ -1,0 +1,22 @@
+.btn-center {   
+    margin-left: 30%;
+}
+
+.my-btn {
+    height: 40px;
+    font-size: medium;
+    margin-left: 74%;
+    width: 214px;
+}
+
+.btn-menu {
+    background-color:lightcyan;
+}
+
+.menu-item {
+    display: none;
+}
+
+.menu:hover .menu-item {
+    display: block;
+}
